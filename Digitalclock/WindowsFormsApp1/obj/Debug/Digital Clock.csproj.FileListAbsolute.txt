@@ -1,0 +1,10 @@
+F:\computer\Projects\C#\Digital clock\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\computer\Projects\C#\Digital clock\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\computer\Projects\C#\Digital clock\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\computer\Projects\C#\Digital clock\WindowsFormsApp1\obj\Debug\Digital Clock.csprojAssemblyReference.cache
+F:\computer\Projects\C#\Digital clock\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DigitalClock.resources
+F:\computer\Projects\C#\Digital clock\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\computer\Projects\C#\Digital clock\WindowsFormsApp1\obj\Debug\Digital Clock.csproj.GenerateResource.cache
+F:\computer\Projects\C#\Digital clock\WindowsFormsApp1\obj\Debug\Digital Clock.csproj.CoreCompileInputs.cache
+F:\computer\Projects\C#\Digital clock\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\computer\Projects\C#\Digital clock\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
